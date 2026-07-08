@@ -54,6 +54,8 @@ Apliqué pruebas Mann-Whitney U con corrección de Bonferroni para confirmar que
 ---
 
 ## 📁 Estructura del repositorio
+
+```
 📁 callmemaybe-operator-analysis/
 │
 ├── 📓 notebook (1).ipynb
@@ -61,8 +63,9 @@ Apliqué pruebas Mann-Whitney U con corrección de Bonferroni para confirmar que
 ├── 📄 README.md
 └── 📁 data/
     ├── 📄 README.md
-    ├── 📄 telecom_clients.csv
-    └── 📄 telecom_dataset.csv
+    ├── 📄 telecom_dataset_us.csv
+    └── 📄 telecom_clients_us.csv
+```
 ---
 
 ## 💡 Lo que aprendí
